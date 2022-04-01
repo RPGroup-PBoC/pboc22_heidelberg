@@ -4,7 +4,7 @@ title: Materials
 cover: readings.jpg
 categories: posts
 permalink: materials
-tag: mar
+tag: hei
 year: 2022
 ---
 Here you will find papers, vignettes, and other resources mentioned in the class. They will be added as the course progresses.
