@@ -9,7 +9,6 @@ year: 2022
 ---
 Here you will find papers, vignettes, and other resources mentioned in the class. They will be added as the course progresses.
 
-## Slides (Password protected)
 
 
 ## Vignettes
@@ -66,14 +65,6 @@ Here you will find papers, vignettes, and other resources mentioned in the class
 {% endif %}
 {% endfor %}
 </table>
-
-## Overflow Vignettes
-
-{% for extra in site.data.vignettes %}
-{% if extra.exurl %}
-<li> <a style="text-decoration: none;" href="{{extra.exurl}}" target="_blank"><b>{{extra.extitle}}</b>.</a> {{extra.exdesc}}</li>
-{% endif %}
-{% endfor %}
 
 
 ## In-Class Readings
