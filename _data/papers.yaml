@@ -4,15 +4,15 @@ Reading assignments:
    description: This book describes many of the estimates we will do in class and is a useful resource for finding key numbers that characterize biological phenomena.
    link: "http://book.bionumbers.org"
 
-  - title: "Street Fighting Mathematics"
+ - title: "Street Fighting Mathematics"
    author: "Sanjoy Mahajan"
    link: "https://library.oapen.org/handle/20.500.12657/26090"
 
-  - title: "Torque dependent remodelling of the bacterial flagellar motor"
-    author: "Wadhwa, Phillips, Berg"
-    journal: "PNAS"
-    year: "2019"
-    link: "http://rpdata.caltech.edu/publications/Wadhwa2019a.pdf"
+ - title: "Torque dependent remodelling of the bacterial flagellar motor"
+   author: "Wadhwa, Phillips, Berg"
+   journal: "PNAS"
+   year: "2019"
+   link: "http://rpdata.caltech.edu/publications/Wadhwa2019a.pdf"
 
 # Day 1 (September 9th):
 #   - title: "The biomass distribution on Earth"
