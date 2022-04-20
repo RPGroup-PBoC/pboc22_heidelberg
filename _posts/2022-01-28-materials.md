@@ -92,3 +92,8 @@ This series of vignettes expands on topics we will cover in the course. Specific
 {% endif %}
 {% endfor %}
 {% endfor %}
+
+
+## Homeworks
+
+Here are links to homeworks involving order of magnitude estimates: <a href="http://www.rpgroup.caltech.edu/aph161/assets/hwk/HW_1_161_2022_Final.pdf" target="_blank">{{"BE161: Homework 1"}}</a>, <a href="http://www.rpgroup.caltech.edu/aph161/assets/hwk/HW_2_161_2022_Final.pdf" target="_blank">{{"BE161: Homework 2"}}</a>.
