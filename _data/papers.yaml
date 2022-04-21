@@ -15,6 +15,12 @@ Day 1 (April 20th):
    year: "2019"
    link: "http://rpdata.caltech.edu/publications/Wadhwa2019a.pdf"
 
+ - title: "Fundamental limits on the rate of bacterial growth and their influence on proteomic composition"
+   author: "Belliveau, et al."
+   journal: "Cell Systmes"
+   year: "2021"
+   description: This paper goes into more detail on the cell growth limits we discussed in class.
+
 # Day 1 (September 9th):
 #   - title: "The biomass distribution on Earth"
 #     author: "Bar-On et al."
