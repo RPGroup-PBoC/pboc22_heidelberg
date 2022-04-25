@@ -100,4 +100,4 @@ Here are links to homeworks involving order of magnitude estimates: <a href="htt
 
 <a href="https://improbable.com/2019/03/29/the-day-ig-nobel-people-came-together-at-hokkaido-university/?amp=1" target ="_blank">{{"The ignoble prize"}}</a>
 
-<a href="http://rpdata.caltech.edu/courses/heidelberg_22/open_data/Kondev_course_notes.pdf" target="_blank">{{"Jane's notes on stat mech and diffusion}}</a><br>
+<a href="http://rpdata.caltech.edu/courses/heidelberg_22/open_data/Kondev_course_notes.pdf" target="_blank">{{"Jane's notes on stat mech and diffusion"}}</a><br>
