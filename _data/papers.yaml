@@ -84,6 +84,18 @@ Day 5 (April 25th):
    journal: "American Journal of Physics"
    year: "2020"
    link: "https://arxiv.org/pdf/1906.08392.pdf"
+  
+ - title: "Kinetic proofreading: A new mechanism for reducing errors in biosynthetic processes requiring high specificity"
+   author: "J. J. Hopfield"
+   journal: "PNAS"
+   year: "1974"
+   link: "https://www.pnas.org/doi/epdf/10.1073/pnas.71.10.4135"
+
+ - title: "Kinetic proofreading of enzyme discrimination"
+   author: "Jacques Ninio"
+   journal: "Biochimie"
+   year: "1975"
+   link: "https://static.ias.edu/pitp/archive/2012files/Kinetic_amplification.pdf"
 
 # Day 1 (September 9th):
 #   - title: "The biomass distribution on Earth"
