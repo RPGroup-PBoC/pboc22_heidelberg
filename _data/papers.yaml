@@ -66,6 +66,12 @@ Day 4 (April 23rd):
    journal: "eLife"
    year: "2022"
    link: "https://elifesciences.org/articles/74509"
+ 
+ - title: "The time needed to set up a gradient: Detailed calculations"
+   author: "Munro and Crick"
+   journal: "Symp Soc Exp Bio"
+   year: "1971"
+   link: "http://rpdata.caltech.edu/courses/heidelberg_22/open_data/GradientTime_crick.pdf"
 
 # Day 1 (September 9th):
 #   - title: "The biomass distribution on Earth"
